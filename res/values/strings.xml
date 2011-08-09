@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SudokuActivity!</string>
+    <string name="app_name">Sudoku</string>
+    <string name="glowny_tytul">Rybakowe Sudoku</string>
+    <string name="etykieta_kontynuacja">Kontynuuj</string>
+    <string name="etykieta_nowa_gra">Nowa Gra</string>
+    <string name="etykieta_informacje">Informacje</string>
+    <string name="etykieta_wyjscie">Wyjście</string>
+    
+    <string name="tytul_informacje">Informacje o grze</string>
+    <string name="tresc_informacje">\
+   	Sudoku jest grą logiczną, polegającą na właściwym rozmieszczeniu cyfr.
+   	Zadaniem jest uzupełnienie częściowo wypełnionej siatki o rozmiarach
+   	9x9 pól w taki sposób, aby w każdym wierszu, każdej kolumnie oraz w
+   	każdym kwadracie 3x3 pola (zwanym również <i>blokiem</i>) pojawiała
+   	się dokładnie jedna cyfra z przedziału od 1 do 9.
+   	Cyfry w wymienionych obszarach nie mogą się powtarzać.
+    </string>
+    
+    <string name="etykieta_ustawienia">Ustawienia...</string>
+    <string name="tytul_ustawienia">Ustawienia gry Sudoku</string>
+    <string name="skrot_ustawienia">s</string>
+    <string name="tytul_muzyka">Muzyka</string>
+    <string name="podsumowanie_muzyka">Odtwarza muzykę w tle</string>
+    <string name="tytul_podpowiedzi">Podpowiedzi</string>
+    <string name="podsumowanie_podpowiedzi">Wyświetla podpowiedzi w trakcie gry</string>
+    
+    <string name="tytul_nowa_gra">Poziom trudności</string>
+    <string name="etykieta_latwy">Łatwy</string>
+    <string name="etykieta_sredni">Średni</string>
+    <string name="etykieta_trudny">Trudny</string>
+    
+    <string name="tytul_gra">Gra</string>
+    <string name="etykieta_brak_ruchow">Brak ruchów</string>
+    <string name="tytul_klawiatura">Klawiatura</string>   
+</resources>

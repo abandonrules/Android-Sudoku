@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="trudnosc">
+    	<item>@string/etykieta_latwy</item>
+    	<item>@string/etykieta_sredni</item>
+    	<item>@string/etykieta_trudny</item>
+    </array>
+</resources>
